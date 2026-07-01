@@ -1,5 +1,4 @@
 # 🔐 Image Encryption Tool
-### SkillCraft Technology Internship — Task 02
 
 ---
 
@@ -172,10 +171,9 @@ Password: mypassword123
 
 ## 👤 Author
 
-**[Your Name]**
-Intern at SkillCraft Technology
-GitHub: [your github link]
-LinkedIn: [your linkedin link]
+**mahammad nazneen**
+GitHub: nazneen0304
+LinkedIn: Nazneen M
 
 ---
 
